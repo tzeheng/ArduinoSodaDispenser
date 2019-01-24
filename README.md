@@ -24,10 +24,27 @@ This repository will contain the design specification, documentation and codes f
 * **TT - Control and operations**: Everything else 
 ## Specifications
 ### Body and structure
+**Material**: Cardboard boxes, double or tripple fortified if necessary. Hot glue.
+**Technical drawing**: *to be updated*
+**Tests**: Robustness test - ability to hold 1L soda bottles
 ### Dispensing mechanism
+Two variants will be tested:
+* Gravity-driven dispensing with electronic valve and pressure equalization. *Risks: might not be suitable for carbonated drinks as they might lose carbonation over time due to open design of the pressure equalization. Possible alternative: a second valve*
+* Positive-pressure dispensing using a vacuum pump.
+**Tests**: leaks, realiability and dispensing volume precision.
 ### Controller
+* Arduino Uno
+* Dispensing to be button-triggered
+* Circuits will be delivered as prototype package (breadboards and jumper-wires) in a semi-secure and waterproof enclosure to prevent tempering and will **not** be soldered on development boards.
+* LEDs and LCD display
 ## Action items
-- [ ] Finalization of design specification
+- [x] Finalization of design specification
 - [ ] Sourcing of components
+- [ ] Cardboard structure
+- [ ] Dispensing mechanism
+- [ ] Micro-controller
+- [ ] QC and testing
+- [ ] Product delivery
+- [ ] Project closure
 
 
