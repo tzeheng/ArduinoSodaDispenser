@@ -27,7 +27,7 @@ This repository will contain the design specification, documentation and codes f
 ### Dispensing mechanism
 ### Controller
 ## Action items
-- [] Finalization of design specification
-- []
+- [ ] Finalization of design specification
+- [ ] Sourcing of components
 
 
