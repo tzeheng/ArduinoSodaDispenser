@@ -1,5 +1,5 @@
 # ArduinoSodaDispenser
-*January 24, 2019 -- Tze Heng Tan*
+*January 24, 2019 -- Tze Heng Tan*  
 This repository will contain the design specification, documentation and codes for Julius' soda dispenser. To be made out of cardboard, hotglue and controlled by an Arduino Uno controller 
 ## Overview
 ### Problem
