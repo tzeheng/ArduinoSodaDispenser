@@ -1,4 +1,4 @@
-# ArduinoSodaDispenser
+# Arduino Soda Dispenser
 *January 24, 2019 -- Tze Heng Tan*  
 This repository will contain the design specification, documentation and codes for Julius' soda dispenser. To be made out of cardboard, hotglue and controlled by an Arduino Uno controller 
 ## Overview
@@ -6,9 +6,9 @@ This repository will contain the design specification, documentation and codes f
 1. **YouTube nerds**: Countless YouTube videos and channels constantly supplying Julius with nerdy ideas of things to make, such as this [soda dispenser](https://www.youtube.com/watch?v=k0ERi0Bt8Gk).
 2. **Automation is a must**: A 'manual' [dispenser such as this](https://www.youtube.com/watch?v=Ek0GqIr99X8) isn't enough. It has to be a *robot* (automatic).
 3. **Daily SCRUMs**: The project manager, Julius, organized daily SCRUM and demands constant updates and progress reports.
-> Are you finally fixing my cola machine?
-> Can you put lights and buttons on it now?
-> When will it be done?
+> Are you finally fixing my cola machine?  
+> Can you put lights and buttons on it now?  
+> When will it be done?  
 ### Goals
 1. Design and create a structure strong enough to hold the beverage, dispensing mechanism and electronics out of cardboard.
 2. Design and approval of dispensing mechanism
@@ -27,7 +27,7 @@ This repository will contain the design specification, documentation and codes f
 ### Dispensing mechanism
 ### Controller
 ## Action items
-- [] 
+- [] Finalization of design specification
 - []
 
 
