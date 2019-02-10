@@ -39,10 +39,10 @@ Two variants will be tested:
 * LEDs and LCD display
 ## Action items
 - [x] Finalization of design specification
-- [ ] Sourcing of components
+- [x] Sourcing of components
 - [ ] Cardboard structure
 - [ ] Dispensing mechanism
-- [ ] Micro-controller
+- [x] Micro-controller
 - [ ] QC and testing
 - [ ] Product delivery
 - [ ] Project closure
