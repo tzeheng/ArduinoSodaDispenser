@@ -19,6 +19,7 @@ void setup() {
   // set relay pins
   pinMode(valvePin,OUTPUT);
   pinMode(pumpPin,OUTPUT);
+  pinMode(statusLED,OUTPUT);
   digitalWrite(valvePin, HIGH);
   digitalWrite(pumpPin, HIGH);
   // just in case
