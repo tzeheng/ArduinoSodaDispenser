@@ -52,7 +52,7 @@ void dispense_cola(){
   delay(500);
   digitalWrite(valvePin, HIGH);
   delay(1000);
-  Serial.println("Ready");
+  if(debug)Serial.println("Ready");
   lcd_print(2,"Ready.");
   digitalWrite(statusLED, HIGH);
 }
